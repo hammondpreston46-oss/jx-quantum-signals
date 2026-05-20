@@ -1,0 +1,6 @@
+aiogram
+apscheduler
+pandas
+numpy
+ta
+yfinance
